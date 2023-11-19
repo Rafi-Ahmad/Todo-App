@@ -35,17 +35,18 @@ A simple Todo application for managing your tasks and priorities.
    cd todo-app
 
    
-### Installing dependencies on Server
+## Installing dependencies on Server
 ```bash
 -- cd server
 -- npm install
 
-### Installing dependencies on Client
+## Installing dependencies on Client
 ```bash
 -- cd client
 -- npm install
 
 ### Usage
+
 Start the server:
 
 ```bash
