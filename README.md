@@ -44,3 +44,18 @@ A simple Todo application for managing your tasks and priorities.
 ```bash
 -- cd client
 -- npm install
+
+### Usage
+Start the server:
+
+```bash
+cd server
+npm start
+Start the client:
+
+```bash
+cd ../client
+npm start
+
+
+Open your browser and go to http://localhost:3000 to use the Todo app.
