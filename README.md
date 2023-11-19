@@ -36,12 +36,12 @@ A simple Todo application for managing your tasks and priorities.
 
    
 ## Installing dependencies on Server
-```bash
--- cd server
--- npm install
+
+ cd server
+ npm install
 
 ## Installing dependencies on Client
-```bash
+
  cd client
  npm install
 
@@ -49,12 +49,11 @@ A simple Todo application for managing your tasks and priorities.
 
 Start the server:
 
-```bash
 cd server
 npm start
-Start the client:
 
-```bash
+
+Start the client:
 cd ../client
 npm start
 
