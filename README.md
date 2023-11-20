@@ -45,6 +45,9 @@ A simple Todo application for managing your tasks and priorities.
  cd client
  npm install
 
+ ## Setup .env File
+
+
 ## Usage
 
 Start the server:
