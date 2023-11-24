@@ -8,6 +8,7 @@ A simple Todo application for managing your tasks and priorities.
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
+  - [Configuration](#configuration)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
@@ -35,15 +36,16 @@ A simple Todo application for managing your tasks and priorities.
    cd todo-app
 
    
-## Installing dependencies on Server
+### Installing dependencies on Server
 
- cd server
- npm install
+ 
+  - cd server
+  - npm install
 
 ## Installing dependencies on Client
 
- cd client
- npm install
+ - cd client
+ - npm install
 
 ## Configuration
 
