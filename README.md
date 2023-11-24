@@ -45,7 +45,16 @@ A simple Todo application for managing your tasks and priorities.
  cd client
  npm install
 
- ## Setup .env File
+## Configuration
+
+1. **Environment Variables:**
+
+   Create a `.env` file in the server folder of the project with the following content:
+
+   ```dotenv
+   PORT=5000
+   ATLAS_URI=your_mongodb_atlas_uri
+   API_KEY=your_weather_api_key
 
 
 ## Usage
